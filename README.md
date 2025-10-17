@@ -29,12 +29,12 @@ To control a 2-link robotic arm so that its end-effector follows a desired circu
 Blue: Desired path  
 Red dashed: Actual path  
 
-![End-Effector Trajectory](docs)
+![End-Effector Trajectory](docs/end_effector_trajectory.png.png)
 
 ### 🔹 Robot Motion
 The arm animation shows how the joints move to follow the circular path.  
 
-![Robot Arm Animation](docs/robot_arm_animation.png)
+![Robot Arm Animation](docs/robot_arm_animation.png.png)
 
 ---
 
